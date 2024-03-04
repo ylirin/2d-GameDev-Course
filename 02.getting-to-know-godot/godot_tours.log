@@ -1,40 +1,5 @@
-2024-03-04T22:38:45:INFO: { "OS": "macOS", "video_adapter_driver_info": [], "screen_size": (2880, 1800), "screen_dpi": 256, "screen_scale": 2, "cores": 8, "locale": "en_US" }
-2024-03-04T22:38:45:INFO: [step_commands: 0]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
-
-2024-03-04T22:38:47:INFO: [step_commands: 1]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
---- Debugging process stopped ---
-
-2024-03-04T22:38:50:INFO: [step_commands: 2]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T22:38:51:INFO: [step_commands: 3]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T22:41:52:INFO: [step_commands: 4]
+2024-03-04T22:43:59:INFO: { "OS": "macOS", "video_adapter_driver_info": [], "screen_size": (2880, 1800), "screen_dpi": 256, "screen_scale": 2, "cores": 8, "locale": "en_US" }
+2024-03-04T22:43:59:INFO: [step_commands: 0]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -47,24 +12,37 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-Create Node
-Scene Undo: Create Node
-Instantiate Scene(s)
-Create Node
-Reparent Node
-Scene Undo: Reparent Node
-Instantiate Scene(s)
-Cut Node(s)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (-449, 406)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (343, 283)
-Rename Node
-Remove Node(s)
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Connect 'health_changed' to '_on_player_health_changed'
+  res://addons/godot_tours/utils.gd:61 - Cannot call method 'get_text' on a null value.
+  res://addons/godot_tours/utils.gd:74 - Cannot call method 'get_children' on a null value.
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T22:41:53:INFO: [step_commands: 5]
+2024-03-04T22:44:00:INFO: [step_commands: 1]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -77,26 +55,39 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-Create Node
-Scene Undo: Create Node
-Instantiate Scene(s)
-Create Node
-Reparent Node
-Scene Undo: Reparent Node
-Instantiate Scene(s)
-Cut Node(s)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (-449, 406)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (343, 283)
-Rename Node
-Remove Node(s)
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Connect 'health_changed' to '_on_player_health_changed'
+  res://addons/godot_tours/utils.gd:61 - Cannot call method 'get_text' on a null value.
+  res://addons/godot_tours/utils.gd:74 - Cannot call method 'get_children' on a null value.
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T22:41:57:INFO: [step_commands: 4]
+2024-03-04T22:44:15:INFO: [step_commands: 2]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -109,28 +100,41 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-Create Node
-Scene Undo: Create Node
-Instantiate Scene(s)
-Create Node
-Reparent Node
-Scene Undo: Reparent Node
-Instantiate Scene(s)
-Cut Node(s)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (-449, 406)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (343, 283)
-Rename Node
-Remove Node(s)
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Connect 'health_changed' to '_on_player_health_changed'
+  res://addons/godot_tours/utils.gd:61 - Cannot call method 'get_text' on a null value.
+  res://addons/godot_tours/utils.gd:74 - Cannot call method 'get_children' on a null value.
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T22:41:58:INFO: [step_commands: 3]
+2024-03-04T22:44:16:INFO: [step_commands: 3]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -143,22 +147,35 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-Create Node
-Scene Undo: Create Node
-Instantiate Scene(s)
-Create Node
-Reparent Node
-Scene Undo: Reparent Node
-Instantiate Scene(s)
-Cut Node(s)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (-449, 406)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (343, 283)
-Rename Node
-Remove Node(s)
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Connect 'health_changed' to '_on_player_health_changed'
+  res://addons/godot_tours/utils.gd:61 - Cannot call method 'get_text' on a null value.
+  res://addons/godot_tours/utils.gd:74 - Cannot call method 'get_children' on a null value.
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -166,7 +183,7 @@ Remove Node(s)
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T22:42:10:INFO: [step_commands: 2]
+2024-03-04T22:44:17:INFO: [step_commands: 4]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -179,22 +196,35 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-Create Node
-Scene Undo: Create Node
-Instantiate Scene(s)
-Create Node
-Reparent Node
-Scene Undo: Reparent Node
-Instantiate Scene(s)
-Cut Node(s)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (-449, 406)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (343, 283)
-Rename Node
-Remove Node(s)
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Connect 'health_changed' to '_on_player_health_changed'
+  res://addons/godot_tours/utils.gd:61 - Cannot call method 'get_text' on a null value.
+  res://addons/godot_tours/utils.gd:74 - Cannot call method 'get_children' on a null value.
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -204,7 +234,7 @@ Remove Node(s)
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T22:42:12:INFO: [step_commands: 1]
+2024-03-04T22:44:18:INFO: [step_commands: 5]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -217,22 +247,35 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-Create Node
-Scene Undo: Create Node
-Instantiate Scene(s)
-Create Node
-Reparent Node
-Scene Undo: Reparent Node
-Instantiate Scene(s)
-Cut Node(s)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (-449, 406)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (343, 283)
-Rename Node
-Remove Node(s)
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Connect 'health_changed' to '_on_player_health_changed'
+  res://addons/godot_tours/utils.gd:61 - Cannot call method 'get_text' on a null value.
+  res://addons/godot_tours/utils.gd:74 - Cannot call method 'get_children' on a null value.
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -244,7 +287,7 @@ Remove Node(s)
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T22:42:13:INFO: [step_commands: 0]
+2024-03-04T22:44:23:INFO: [step_commands: 6]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -257,22 +300,13 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-Create Node
-Scene Undo: Create Node
-Instantiate Scene(s)
-Create Node
-Reparent Node
-Scene Undo: Reparent Node
-Instantiate Scene(s)
-Cut Node(s)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (-449, 406)
-Instantiate Scene(s)
-Reparent Node
-Move CanvasItem "Chest" to (343, 283)
-Rename Node
-Remove Node(s)
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Connect 'health_changed' to '_on_player_health_changed'
+  res://addons/godot_tours/utils.gd:61 - Cannot call method 'get_text' on a null value.
+  res://addons/godot_tours/utils.gd:74 - Cannot call method 'get_children' on a null value.
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -285,4 +319,3153 @@ Remove Node(s)
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T22:44:26:INFO: [step_commands: 7]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+
+2024-03-04T22:44:27:INFO: [step_commands: 8]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T22:44:33:INFO: [step_commands: 9]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+
+2024-03-04T22:44:34:INFO: [step_commands: 10]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T22:44:35:INFO: [step_commands: 11]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T22:44:40:INFO: [step_commands: 12]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T22:44:41:INFO: [step_commands: 13]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T22:44:42:INFO: [step_commands: 14]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T22:44:43:INFO: [step_commands: 15]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T22:45:17:INFO: [step_commands: 16]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T22:45:21:INFO: [step_commands: 17]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Start:<Node2D#9620559041477>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+Chest:<Area2D#8672310791465>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  res://levels/rooms/chests/chest.gd:4 - Parse Error: Preload file "res://pickups/weapon_pickup.tscn" does not exist.
+  res://levels/rooms/chests/chest.gd:5 - Parse Error: Preload file "res://pickups/health_pickup.tscn" does not exist.
+
+2024-03-04T22:45:24:INFO: [step_commands: 18]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
 
