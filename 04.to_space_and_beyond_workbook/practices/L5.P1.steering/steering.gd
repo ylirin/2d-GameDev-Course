@@ -1,6 +1,6 @@
 extends Sprite2D
 
-var max_speed := 600.0
+var max_speed := 700.0
 var velocity := Vector2(0, 0)
 var steering_factor := 10.0
 
@@ -13,9 +13,17 @@ func _process(delta: float) -> void:
 	if direction.length() > 1.0:
 		direction = direction.normalized()
 
-	# Add code to calculate the desired velocity, the steering,
-	# and add to the current velocity before changing the position.
+	var desired_velocity := max_speed * direction
+	var steering_vector := desired_velocity - velocity
+	velocity += steering_vector * steering_factor * delta
+	position += velocity * delta
+
 	position += velocity * delta
 
 	if direction.length() > 0.0:
 		rotation = velocity.angle()
+
+
+
+func _on_timer_timeout():
+	pass # Replace with function body.
