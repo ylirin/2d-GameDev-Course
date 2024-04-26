@@ -5,17 +5,17 @@ extends Area2D
 
 
 func _ready() -> void:
+	mouse_entered.connect(_on_mouse_entered)
+	mouse_exited.connect(_on_mouse_exited)
 	set_outline_thickness(5.0)
-
-
+	
 func set_outline_thickness(new_thickness: float) -> void:
-	if canvas_group_has_material:
 		canvas_group.material.set_shader_parameter("line_thickness", new_thickness)
 
 
 func _on_mouse_entered() -> void:
-	pass
-
+	set_outline_thickness(10)
 
 func _on_mouse_exited() -> void:
-	pass
+	set_outline_thickness(5)
+
